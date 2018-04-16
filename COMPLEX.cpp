@@ -2,7 +2,7 @@
 
 void print_menu(char t)
 {
-	cout << "Hey, this is a complex number sorbulator " << endl;
+	cout << "Hey, this is a complex number calculator " << endl;
 	cout << "Select operation" << endl;
 	cout << "[" << "-" << "]" << endl;
 	cout << "[" << "+" << "]" << endl;
